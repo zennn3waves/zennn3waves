@@ -1,0 +1,3 @@
+git remote add origin https://github.com/zennn3waves/zennn3waves.git
+git branch -M main
+git push -u origin main
